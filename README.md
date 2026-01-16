@@ -10,7 +10,7 @@ A visually engaging web project demonstrating the power of **CSS3 gradients**, *
   
 ## Preview
 
-<img width="869" height="540" alt="Screenshot 2026-01-15 113235" src="https://github.com/user-attachments/assets/718aeb1c-504f-40f6-af24-951dd432874e" />
+<img width="600" height="auto" style="max-width: 100%;" alt="Screenshot 2026-01-15 113235" src="https://github.com/user-attachments/assets/718aeb1c-504f-40f6-af24-951dd432874e" />
 
 
 
