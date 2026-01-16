@@ -9,7 +9,9 @@ A visually engaging web project demonstrating the power of **CSS3 gradients**, *
 * **Shadow Effects:** Soft glow and drop shadows for a "floating" feel.
   
 ## Preview
-![Project Screenshot](my link)
+
+![Uploading Screenshot 2026-01-15 113235.png…]()
+
 
 ## Built With
 * **HTML5** - Structured markup.
